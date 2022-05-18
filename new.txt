@@ -1,2 +1,3 @@
-bob john
+bob
+john
 mary 
